@@ -6,6 +6,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singla-shivam)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-count.glitch.me/singla-shivam/count" />
+</p>
 
 <!--
 **singla-shivam/singla-shivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
