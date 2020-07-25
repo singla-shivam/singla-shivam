@@ -19,7 +19,7 @@ PostgreSQL
 * [Smart Park](https://github.com/singla-shivam/Smart-Park) - Smart Park is used to booking parking slots online/offline using React, Firestore database.
 * [JS Algo and DS](https://github.com/singla-shivam/Javascript-Algorithms-DataStructures) - Popular Algorithms and Data Structures written purely in JavaScript.
 
-### Find me around the web 🌎:🌎
+### Find me around the web ![](https://img.icons8.com/clouds/24/000000/web-globe.png)
 [![](https://img.icons8.com/cute-clipart/24/000000/linkedin.png)](https://www.linkedin.com/in/singla-shivam/)
 &nbsp; [![](https://img.icons8.com/dusk/24/000000/gmail-login.png)](mailto:er.singla.shivam@gmail.com)
 
