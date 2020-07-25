@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Shivam
+
+![](banner.png)
 
 <!--
 **singla-shivam/singla-shivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
