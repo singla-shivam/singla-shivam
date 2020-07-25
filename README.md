@@ -8,7 +8,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-count.glitch.me/shivam-singla   /count" />
+  <img src="https://profile-count.glitch.me/shivam-singla/count" />
 </p>
 
 <!--
