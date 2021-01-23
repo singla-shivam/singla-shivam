@@ -20,19 +20,9 @@ PostgreSQL
 * [JS Algo and DS](https://github.com/singla-shivam/Javascript-Algorithms-DataStructures) - Popular Algorithms and Data Structures written purely in JavaScript.
 
 ### Find me around the web ![](https://img.icons8.com/clouds/24/000000/web-globe.png)
-<div style="display:flex;align-items:center"> 
-  <a href="https://www.linkedin.com/in/singla-shivam/">
-    <img src="https://img.icons8.com/cute-clipart/24/000000/linkedin.png" />
-  </a>
-  <a href="mailto:er.singla.shivam@gmail.com">
-    <img src="https://img.icons8.com/dusk/24/000000/gmail-login.png" />
-  </a>
-  <a href="https://stackoverflow.com/users/11642727/shivam-singla">
-    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" />
-  </a>
-</div>
-
-
+[![](https://img.icons8.com/cute-clipart/24/000000/linkedin.png)](https://www.linkedin.com/in/singla-shivam/)
+&nbsp; [![](https://img.icons8.com/dusk/24/000000/gmail-login.png)](mailto:er.singla.shivam@gmail.com)
+&nbsp; [![](https://img.icons8.com/color/24/000000/stackoverflow.png)](https://stackoverflow.com/users/11642727/shivam-singla)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=singla-shivam&show_icons=true&count_private=true)
