@@ -5,7 +5,7 @@
 I am a full-stack software engineer who is passionate to explore new technologies. I thrive in a fast-paced environment and love to work with passionate individuals. I enjoy working in JavaScript, TypeScript and NodeJs.  
 
 #### Programming languages
-JavaScript, TypeScript, Kotlin, Java and Rust.
+JavaScript, TypeScript, Kotlin, Rust, Elixir and Java.
 
 #### Technologies/Frameworks I have used
 NodeJS, Deno, Vue, Nuxt, Vuex,
